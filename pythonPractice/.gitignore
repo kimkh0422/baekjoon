@@ -1,0 +1,18 @@
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경 (필요 시)
+venv/
+env/
+
+# 로그파일, 임시파일
+*.log
+*.swp
+*.bak
+
+# VS Code 설정
+.vscode/
+
+# Mac 사용 시 생기는 숨김파일
+.DS_Store
