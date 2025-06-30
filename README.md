@@ -10,7 +10,7 @@
 - Python
 
 baekjoonPractice
--백준 문제 풀이
+-지금까지 풀어본 백준 문제 풀이
 
 baekjoonRepeat
 -백준 문제 복습
